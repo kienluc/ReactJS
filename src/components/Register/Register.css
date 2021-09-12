@@ -1,0 +1,102 @@
+.content li:nth-child(1) img{
+  position: absolute; 
+  left: 0; 
+  top: 10px; 
+  height: 75px;
+  left: 15px;
+}
+.content li img{
+  position: absolute; 
+  left: 0; 
+  top: 10px; 
+  left: 15px;
+}
+
+.con {
+  width: 80%;
+  margin:auto;
+}
+.content li{
+  position: relative;
+  background-repeat: no-repeat;
+    line-height: 15px;
+    padding: 0 0 0 100px;
+    /* margin: 0 0 10px; */
+    min-height: 90px;
+    position: relative;
+    width: 100%;
+}
+.do-you-know .section-title {
+    text-align: center;
+    margin-top: 100px;
+}
+.section-title {
+    color: #333;
+    font-size: 35px;
+    font-weight: 200;
+    margin: 7px 0 25px 0;
+    padding: 0;
+}
+/* .do-you-know p {
+    margin: 0 0 10px;
+} */
+.do-you-know .btn-100 {
+    line-height: 40px;
+    font-size: 22px;
+}
+.btn-100 {
+    padding-left: 0;
+    padding-right: 0;
+    width: 100%;
+}
+.btn-primary1 {
+    color: #fff;
+}
+.btn {
+    border-radius: 0;
+    font-weight: 300;
+    text-transform: uppercase;
+    padding: 0;
+}
+p {
+  border-color: #01904a;
+  background-color: #01904a;
+  text-align: center;
+  cursor: pointer;
+}
+p a {
+  text-decoration: none;
+}
+p:hover {
+  background-color: #23527c;
+  /* text-decoration: underline; */
+}
+.do-you-know .section-title strong{
+    font-weight: 400;
+    font-size: 35px;
+}
+.do-you-know .section-title em {
+    font-size: 16px;
+    font-weight: 400;
+    font-style: normal;
+    margin: 0 45px 10px;
+    line-height: 24px;
+}
+
+.do-you-know ul li strong {
+    color: #01904a;
+    display: block;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 15px;
+    text-transform: uppercase;
+}
+.do-you-know ul {
+  list-style: none;
+}
+i {
+  color: #958686; 
+  display: block; 
+  font-size: 14px; 
+  font-style: italic;
+}

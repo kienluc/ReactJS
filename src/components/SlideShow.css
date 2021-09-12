@@ -1,0 +1,18 @@
+.slideshow {
+  
+  height: 394px;
+}
+
+/* .header2 {
+  width: 60%;
+}  */
+
+.row2 {
+  display: flex;
+  width: 80%;
+  margin: auto;
+}
+.img {
+  width: 60%;
+  padding: 20px;
+}

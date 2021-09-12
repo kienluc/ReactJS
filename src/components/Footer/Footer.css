@@ -1,0 +1,51 @@
+
+.ft {
+  background-color: black;
+  color: white;
+  padding: 20px;
+  font-size: 13px;
+}
+.con {
+  display: flex;
+}
+.menu1 {
+  display: flex;
+  padding: 0;
+}
+.menu1 {
+  list-style: none;
+}
+.menu1 a {
+  color: white;
+  text-decoration: none;
+}
+span a {
+  color: white;
+  text-decoration: none;
+}
+.l-f {
+  width:40%;
+}
+.r-f {
+  text-align: end;
+}
+.r-f a {
+  text-decoration: none;
+  color:white;
+}
+.social-links a {
+  color: white;
+}
+.social-links ul li {
+  list-style: none;
+  padding-left: 5px;
+}
+.social-links ul {
+  display: flex;
+}
+.social-links ul li a img {
+  max-width: 4rem;
+}
+.menu1 li {
+  padding-left: 5px;
+}

@@ -1,0 +1,54 @@
+.container {
+  background-color: #f2f2f2;
+}
+
+.top-container {
+  display: flex;
+  justify-content: space-between;
+  width: 80%;
+  margin: auto;
+}
+.t-l-container {
+  display: flex;
+  padding: 12px;
+}
+
+.t-l-container span {
+  font-size: 13px;
+}
+
+.t-r-container {
+  margin: 8px;
+}
+
+.appstore {
+  height: 20px; 
+  width: auto;
+}
+
+.googleplay {
+  height: 20px; 
+  width: auto;
+}
+
+.logo-gh {
+  margin-left: 10px;
+}
+
+.btn-primary {
+  border-color: #01904a;
+  background-color: #01904a;
+  color: #fff;
+}
+
+.sos-chat {
+  border-radius: 30px;
+  padding: 9px 15px;
+  line-height: 28px;
+  box-shadow: 1px 1px 5px grey;
+  font-size: 14px;
+}
+
+.sos-chat img {
+  height: 20px;
+}

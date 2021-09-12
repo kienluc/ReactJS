@@ -1,0 +1,34 @@
+
+
+
+.navbar-default {
+    background: #fff;
+    border: 0 none;
+    margin-bottom: 0;
+}
+
+.navbar-header .ghct {
+    background: url(logo_ghct.png) no-repeat 0 center;
+    background-size: auto 80%;
+    display: inline-block;
+    height: 79px;
+    width: 338px;
+}
+.navbar-header .ghct span {
+    display: none;
+}
+.row {
+    justify-content: space-between;
+    display: flex;
+    width: 80%;
+    margin: auto;
+}
+.navbar-nav {
+  display: flex;
+  list-style: none;
+}
+
+.navbar-nav li {
+  padding: 7px 0 7px 0;
+  margin-left: 15px;
+}

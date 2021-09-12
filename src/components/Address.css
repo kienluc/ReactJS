@@ -1,0 +1,61 @@
+.col-md-6 {
+    width: 50%;
+}
+.thumb-map-office {
+    max-width: 100%;
+}
+.ghtkpo-btn-search {
+  font-size: 18px;
+  text-transform: capitalize;
+  margin-left: 20px;
+  position: relative;
+}
+.search-icon {
+  max-width: 20px;
+  position: absolute;
+  top: 8px;
+  left: 6px;
+}
+.container-white {
+  background-color: #fff;
+}
+.ghtkpo-search {
+  display: flex;
+}
+.search-post-offices {
+  padding-top: 80px;
+}
+select {
+  background-color: #fff;
+  border: 1px solid #aaa;
+  height: 40px;
+  width: 220px;
+  font-size: 18px;
+  text-align: center;
+}
+.ghtkpo-btn-search span {
+  border-top: 2px;
+  padding: 5px 10px 6px 30px;
+}
+.ghtkpo-btn-search {
+  display: flex;
+}
+.default-title {
+  padding-top: 80px;
+  display: flex;
+  justify-content: space-between;
+}
+.col-right {
+  display: flex;
+ flex-direction: column;
+  align-self: center;
+  
+}
+.big-text {
+  font-size: 90px;
+  font-weight: 400;
+  padding-left: 5px;
+}
+.col-right span {
+    font-size: 28px;
+}
